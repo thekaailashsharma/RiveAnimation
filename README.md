@@ -1,5 +1,5 @@
 
-<h1 align="center">  😎 Rive with Compose 🫶🏻 </h1> <br>
+<h1 align="center">  😎 Rive with Compose 🫶🏻  </h1> <br>
 <p align="center"> 
   <a href="https://firebasestorage.googleapis.com/v0/b/samruddhi-d0846.appspot.com/o/rive.gif?alt=media&token=1eafa04a-dcab-49e2-828f-f462b3caa52a">
     <img src="https://firebasestorage.googleapis.com/v0/b/samruddhi-d0846.appspot.com/o/rive.gif?alt=media&token=1eafa04a-dcab-49e2-828f-f462b3caa52a" border="0">
